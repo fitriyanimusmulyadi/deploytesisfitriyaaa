@@ -1,7 +1,7 @@
 streamlit
-numpy
-opencv-python
-scikit-learn
-scikit-image
-tensorflow
-joblib
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+scikit-learn==1.4.2
+scikit-image==0.22.0
+joblib==1.4.2
+tensorflow-cpu==2.15.0
